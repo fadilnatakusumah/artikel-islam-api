@@ -1,7 +1,7 @@
 ## API Artikel Islam
 API yang menyediakan data-data artikel dari situs-situs islami seperti KonsultasiSyariah.com, Muslim.or.id, dsb.
 
-[API untuk KonsultasiSyariah.com]("https://github.com/fadilnatakusumah/artikel-islam-api/tree/master/konsultasisyariah")
+[API untuk KonsultasiSyariah.com](https://github.com/fadilnatakusumah/artikel-islam-api/tree/master/konsultasisyariah "API KonsultasiSyariah.com")
 
 ### _Disclaimer_
 

@@ -10,6 +10,20 @@ _example_: [LIST OF ARTICLES](https://artikel-islam.netlify.app/.netlify/functio
 <br>
 
 
+`GET ALL ARTICLES WITH PARAMS`
+```
+https://artikel-islam.netlify.app/.netlify/functions/api/ks
+```
+```
+{
+    s: "Tata cara sholat", // "s" for searching query
+    page: 1, // "page" for searching on what page
+}
+```
+_example_: [LIST OF ARTICLES](https://artikel-islam.netlify.app/.netlify/functions/api/ks)
+<br>
+<br>
+
 `GET DETAIL ARTICLE`
 ```
 https://artikel-islam.netlify.app/.netlify/functions/api/ks/detail/:id_article

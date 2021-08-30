@@ -1,12 +1,26 @@
 ## API Artikel Islam
-API yang menyediakan data-data artikel dari situs-situs islami seperti KonsultasiSyariah.com, Muslim.or.id, dsb.
-
-[API untuk KonsultasiSyariah.com](https://github.com/fadilnatakusumah/artikel-islam-api/tree/master/konsultasisyariah "API KonsultasiSyariah.com")
+API yang menyediakan data-data artikel dari situs-situs islami seperti KonsultasiSyariah.com, Muslim.or.id, dll.
 
 
-[API untuk Muslim.or.id](https://github.com/fadilnatakusumah/artikel-islam-api/tree/master/muslimorid "API Muslim.or.id")
+### API yang tersedia:
+[KonsultasiSyariah.com](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/KonsultasiSyariah.md "API KonsultasiSyariah.com")
 
-[API untuk Muslimah.or.id](https://github.com/fadilnatakusumah/artikel-islam-api/tree/master/muslimahorid "API Muslimah.or.id")
+[Muslim.or.id](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/Muslimorid.md "API Muslim.or.id")
+
+[Muslimah.or.id](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/Muslimahorid.md "API Muslimah.or.id")
+
+[Cintasunnah.com](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/Cintasunnah.md "API Cintasunnah.com")
+
+[Firanda.com](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/Firandacom.md "API Firanda.com")
+
+[Khotbahjumat.com](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/KhotbahJumat.md "API Khotbahjumat.com")
+
+[Muslimafiyah.com](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/Muslimafiyah.md "API Muslimafiyah.com")
+
+[Rumaysho.com](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/Rumaysho.md "API Rumaysho.com")
+
+
+<br/>
 
 ### _Disclaimer_
 

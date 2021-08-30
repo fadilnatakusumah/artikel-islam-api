@@ -3,7 +3,7 @@
 
 `GET ALL ARTICLES`
 ```
-https://artikel-islam.netlify.app/.netlify/functions/api/ks
+GET - https://artikel-islam.netlify.app/.netlify/functions/api/ks
 ```
 _example_: [LIST OF ARTICLES](https://artikel-islam.netlify.app/.netlify/functions/api/ks)
 <br>
@@ -12,7 +12,7 @@ _example_: [LIST OF ARTICLES](https://artikel-islam.netlify.app/.netlify/functio
 
 `GET ALL ARTICLES WITH PARAMS`
 ```
-https://artikel-islam.netlify.app/.netlify/functions/api/ks
+GET - https://artikel-islam.netlify.app/.netlify/functions/api/ks
 ```
 ```
 {
@@ -26,6 +26,6 @@ _example_: [LIST OF ARTICLES WITH SEARCH PARAM](https://artikel-islam.netlify.ap
 
 `GET DETAIL ARTICLE`
 ```
-https://artikel-islam.netlify.app/.netlify/functions/api/ks/detail/:id_article
+GET - https://artikel-islam.netlify.app/.netlify/functions/api/ks/detail/:id_article
 ```
 _example_: [DETAIL OF ARTICLE](https://artikel-islam.netlify.app/.netlify/functions/api/ks/detail/aHR0cHM6Ly9rb25zdWx0YXNpc3lhcmlhaC5jb20vMzY0NzktdGVybnlhdGEtcHVhc2EtZGktYnVsYW4tc3l1cm8tYWRhbGFoLXB1YXNhLXBhbGluZy1hZmRvbC1zZXRlbGFoLXB1YXNhLXJhbWFkaGFuLmh0bWw=)

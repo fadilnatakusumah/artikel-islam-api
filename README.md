@@ -1,4 +1,5 @@
 ## API Artikel Islam
+APIs for getting content from Islamic websites such as KonsultasiSyariah.com, Muslim.or.id, etc.
 API yang menyediakan data-data artikel dari situs-situs islami seperti KonsultasiSyariah.com, Muslim.or.id, dll.
 
 

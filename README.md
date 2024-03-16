@@ -3,7 +3,7 @@ APIs for getting content from Islamic websites such as KonsultasiSyariah.com, Mu
 API yang menyediakan data-data artikel dari situs-situs islami seperti KonsultasiSyariah.com, Muslim.or.id, dll.
 
 
-### API yang tersedia:
+### API yang tersedia / Available APIs:
 [KonsultasiSyariah.com](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/KonsultasiSyariah.md "API KonsultasiSyariah.com")
 
 [Muslim.or.id](https://github.com/fadilnatakusumah/artikel-islam-api/blob/master/docs/Muslimorid.md "API Muslim.or.id")
@@ -24,5 +24,5 @@ API yang menyediakan data-data artikel dari situs-situs islami seperti Konsultas
 <br/>
 
 ### _Disclaimer_
-
-_Project ini bukan merupakan project official dari situs-situs tersebut, melainkan hanya project sampingan untuk mendapatkan data dari situs-situs tersebut_
+_This project is not official from those sites, it's just a personal project to scrap and get the content of those sites. So it might not work if those sites change their content view_ <br/>
+_Project ini bukan merupakan project official dari situs-situs tersebut, melainkan hanya project sampingan untuk mendapatkan data dari situs-situs tersebut. Terdapat kemungkinan API ini tidak bekerja jika tampilan website-website tersebut berubah_
